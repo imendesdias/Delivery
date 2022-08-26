@@ -51,7 +51,7 @@ p{
     <div class="w3-col m6 w3-padding-large w3-hide-small">
      <img src="https://riodegusta.com.br/wp-content/uploads/2022/05/Ifood-1.jpg" class="w3-round w3-image w3-opacity-min" alt="Table Setting" width="600" height="750">
     </div>
-    
+
     <div class="w3-col m6 w3-padding-large">
       <h1 class="w3-center">Delivery City</h1><br>
       <h5 class="w3-center">Rápido e Prático</h5>
@@ -66,44 +66,38 @@ p{
   <div class="w3-row w3-padding-64" id="menu">
     <div class="w3-col l6 w3-padding-large">
       <h1 class="w3-center">Cadárpio</h1><br>
-      <h4>Burger One</h4>
-      <p class="w3-text-grey">Pão de hámburger com gergelim, burguer bovino de 70g,2 fatias de queijo prato e ketchup 18.00</p><br>
+      <h4>Burger One</a></h4>
+      <p class="w3-text-grey">Pão de hámburger com gergelim, burguer bovino de 70g,2 fatias de queijo prato e ketchup 18.00</p> <button id="botão">Comprar</button><br>
     
       <h4> Burger two</h4>
-      <p class="w3-text-grey">Pão de hámburger com gergelim, burguer bovino de 100g,4 fatias de queijo prato, bacon e molho rose e Ketchup 25.00</p><br>
+      <p class="w3-text-grey">Pão de hámburger com gergelim, burguer bovino de 100g,4 fatias de queijo prato, bacon e molho rose e Ketchup 25.00</p><button id="botão">Comprar</button><br>
     
       <h4>Burger Super</h4>
-      <p class="w3-text-grey">Pão de hámburger com gergelim, 2 burguer bovino de 70g,5 fatias de queijo prato ,bacon, presunto, molho especial e ketchup 30.00</p><br>
+      <p class="w3-text-grey">Pão de hámburger com gergelim, 2 burguer bovino de 70g,5 fatias de queijo prato ,bacon, presunto, molho especial e ketchup 30.00</p><button id="botão">Comprar</button><br>
     
       <h4>Porções</h4>
       <h4 > Batata Frita 250g</h4>
-      <p class="w3-text-grey">9.00</p><br>
+      <p class="w3-text-grey">9.00</p><button id="botão">Comprar</button><br>
     
       <h4>Batata Frita 500g</h4>
-      <p class="w3-text-grey">15.00</p>   
+      <p class="w3-text-grey">15.00</p> <button id="botão">Comprar</button>  
       
       <h4>Batata Frita c/ bacon</h4>
-      <p class="w3-text-grey">18.00</p> 
+      <p class="w3-text-grey">18.00</p> <button id="botão">Comprar</button>
       
       <h4>Bebidas</h4>
       <h4 > Refrigerante 350ml</h4>
-      <p class="w3-text-grey">9.00</p><br>
+      <p class="w3-text-grey">9.00</p><button id="botão">Comprar</button><br>
       
       <h4 > Suco lata 350ml</h4>
-      <p class="w3-text-grey">10.00</p><br>
+      <p class="w3-text-grey">10.00</p><button id="botão">Comprar</button><br>
      
     </div>
     
     <div class="w3-col l6 w3-padding-large">
       <img src="https://kfcbrasil.com.br/wp-content/uploads/2020/08/BANNERS_SITE_cardapio.png" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
     </div>
-    <ul class="pagination">
-      <li class="page-item"><a class="page-link" href="#">Previous</a></li>
-      <li class="page-item"><a class="page-link" href="#">1</a></li>
-      <li class="page-item"><a class="page-link" href="#">2</a></li>
-      <li class="page-item"><a class="page-link" href="#">3</a></li>
-      <li class="page-item"><a class="page-link" href="#">Next</a></li>
-    </ul>
+    
   </div>
 
   <hr>
